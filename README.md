@@ -60,7 +60,7 @@ The server provides the following tools:
 3. Example queries:
    - "Get me the latest headline from Khaleej Times"
    - "Show me all headlines from Khaleej Times"
-   - "Get the content of this article: [URL]"
+   - "Get the content of this article: <article_name>"
 
 ## Project Structure
 
